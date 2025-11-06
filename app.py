@@ -70,4 +70,4 @@ if st.button("Tampilkan Insight"):
 
 # Footer
 st.markdown("---")
-st.caption("Dibuat oleh [Nama Anda] | Tugas: Building Portfolio with Streamlit")
+st.caption("Dibuat oleh Giorgio Gunadi | Tugas: Building Portfolio with Streamlit")
