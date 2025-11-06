@@ -28,5 +28,5 @@ streamlit run app.py
 Gunakan file `winequality-red.csv` dari UCI Machine Learning Repository.
 
 ## Deployment
-- GitHub Repository: [Link Anda]
-- Streamlit App: [https://your-streamlit-link.streamlit.app]
+- GitHub Repository:https://github.com/Aerowings/winequality-streamlit
+- Streamlit App: https://winequality-app-wqn7mvgwmxyqgfmuzueiez.streamlit.app/
